@@ -40,15 +40,14 @@ All categorical fields were one-hot encoded, and missing values were handled usi
 
     Output Layer: 1 Neuron (Linear, for regression)
 
-Loss Function: Mean Squared Error (MSE)
-Optimizer: Adam
-Metric: Mean Absolute Error (MAE)
+-Loss Function: Mean Squared Error (MSE); 
+-Optimizer: Adam; 
+-Metric: Mean Absolute Error (MAE)
 
 
-📈 Model Performance /n
-Metric            	Value
-Test Loss (MSE)   	4390.35
-Test MAE	          29.90 Rs.
+📈 Model Performance :
+Test Loss (MSE)   ->	4390.35
+Test MAE	    ->      29.90 Rs.
 
 
 💾 Output
