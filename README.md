@@ -54,7 +54,7 @@ Test MAE	    ->      29.90 Rs.
 
     ✅ Trained model: crop_price_ann_model.h5
 
-    ✅ Loss & MAE plots over 100+ epochs
+    ✅ Loss & MAE plots over 1000 epochs
 
     ✅ Predictive model ready for deployment or inference
 
