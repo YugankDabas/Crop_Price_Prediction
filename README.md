@@ -45,7 +45,7 @@ Optimizer: Adam
 Metric: Mean Absolute Error (MAE)
 
 
-📈 Model Performance
+📈 Model Performance /n
 Metric            	Value
 Test Loss (MSE)   	4390.35
 Test MAE	          29.90 Rs.
